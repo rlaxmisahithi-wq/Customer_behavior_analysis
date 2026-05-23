@@ -51,8 +51,6 @@ Interactive visualizations for revenue, customer segments, and product trends
 Filters for category, demographics, and purchase behavior
 Designed for both technical and non-technical stakeholders
 
-(Add Power BI link or screenshot here)
-
 📈 Results & Insights
 Identified key revenue drivers across customer segments
 High-frequency buyers are more likely to subscribe
